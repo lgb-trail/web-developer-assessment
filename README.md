@@ -7,16 +7,21 @@ We are looking to assess your problem-solving skills, creativity and coding-styl
 With that in mind, please use Google (or any other means of finding information) as
 much as you like.
 Requirements
+
 The following technologies are expected to be used:
- HTML
- CSS3
- JavaScript
-o With at least one third party JavaScript library / frameworks (e.g.
-JQuery, React or Angular etc.).
-You are welcome to utilize any other third party front-end libraries / frameworks (e.g.
+<ul>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li> With at least one third party JavaScript library / frameworks (e.g.
+JQuery, React or Angular etc.).</li>
+</ul> HTML
+
+<p>You are welcome to utilize any other third party front-end libraries / frameworks (e.g.
 bootstrap) to complete the assessment.
 Please feel free to use any text editor of your choice (e.g. Visual Studio Code,
-Sublime or Atom etc.) or IDE (e.g. Visual Studio).
+Sublime or Atom etc.) or IDE (e.g. Visual Studio).</p>
+
+
 Task
 Create a mini-site that will display data in logical and user-friendly manner.
 Checklist
@@ -36,6 +41,8 @@ o This should be ideally done using gulp, grunt or webpack
 o The ignore folder should be ignored by Git
  All third party libraries / frameworks should be installed using npm and should
 not be pushed to a Git repository
+
+
 Bonus Points
  Allow the data to be creatively and dynamically filterable by other fields
  Include some kind of CSS based animation to the application
