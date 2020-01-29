@@ -8,7 +8,7 @@ With that in mind, please use Google (or any other means of finding information)
 much as you like.
 Requirements</p>
 
-The following technologies are expected to be used:
+<h3>The following technologies are expected to be used:</h3>
 <ul>
   <li>CSS3</li>
   <li>JavaScript</li>
@@ -22,8 +22,8 @@ Please feel free to use any text editor of your choice (e.g. Visual Studio Code,
 Sublime or Atom etc.) or IDE (e.g. Visual Studio).</p>
 
 <h3>Task</h3>
-Create a mini-site that will display data in logical and user-friendly manner.
-Checklist
+<p>Create a mini-site that will display data in logical and user-friendly manner.
+Checklist</p>
 
 <ul>
   <li>The page should responsive while maintaining optimal user experience
