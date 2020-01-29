@@ -1,0 +1,2 @@
+# web-developer-assessment
+The purpose of this assessment is to gauge your skillset and level of the expertise at building a web application using common web technologies. Keep in mind that you are no way obligated to create a releasable product but you are expected to complete the assessment to the best of your ability. We are looking to assess your problem-solving skills, creativity and coding-style. With that in mind, please use Google (or any other means of finding information) as much as you like
